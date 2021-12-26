@@ -12,3 +12,5 @@ public class MyFileRouter extends RouteBuilder {
                 .to("file:files/output");
     }
 }
+
+// making some changes to show the branching in git using terminal
